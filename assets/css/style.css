@@ -1,0 +1,48 @@
+body {
+    background-image: url("../images/lamborghini_rev.jpg");
+    background-size: cover;
+    color: #fff;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.jumbotron {
+    margin-top: 20px;
+    background-image: url("../images/lamborghini_dark-wallpaper.jpg");
+    background-size: cover;
+    color: aliceblue;
+}
+.z-depth-3 {
+    color: aliceblue;
+}
+.alert {
+    color: #fff;
+}
+.alert-info {
+    background-color: rgba(88,88,88,0.3);
+}
+.alert-success {
+    background-color: rgba(0,128,0,0.3);
+}
+.alert-danger {
+    background-color: rgba(255,0,0,0.3);
+}
+.alert-warning {
+    background-color: rgba(255,255,0,0.3);
+}
+
+.car {
+    background-color: rgba(0,0,0, 0.4);
+    padding: 20px;
+    border: 1px solid #333;
+}
+.answer {
+    cursor: pointer;
+    padding: 10px;
+    transition: all 0.5s linear;
+}
+.answer:hover {
+    padding: 20px;
+    background: rgba(55,55,55, 0.4);
+}
